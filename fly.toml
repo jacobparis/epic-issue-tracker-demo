@@ -1,4 +1,4 @@
-app = "epic-issue-tracker-demo-2c07"
+app = "epic-issue-tracker-demo-6cda"
 primary_region = "sjc"
 kill_signal = "SIGINT"
 kill_timeout = 5
